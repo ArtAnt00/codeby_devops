@@ -1,2 +1,6 @@
-<<<<<
+branch_b
 
+
+=======
+test3
+ branch_a
